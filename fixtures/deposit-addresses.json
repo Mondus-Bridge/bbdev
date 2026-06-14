@@ -1,0 +1,15 @@
+{
+  "ETH": {
+    "default": "0xf1d1d25a8D7993847218A4e32cEbF2E447764477"
+  },
+  "USDT": {
+    "default": "0xf1d1d25a8D7993847218A4e32cEbF2E447764477"
+  },
+  "BTC": {
+    "Bitcoin": "bc1qx8e6we6wcjglp7alzraqw787tzezhxnrjaglsr",
+    "BNB Smart Chain (BEP20)": "0xf1d1d25a8D7993847218A4e32cEbF2E447764477"
+  },
+  "TRX": {
+    "default": "TB1NF6p6GgqADTj97AkBPdETYGkGJDnsgm"
+  }
+}
