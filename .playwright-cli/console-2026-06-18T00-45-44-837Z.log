@@ -1,0 +1,76 @@
+[    3472ms] [ERROR] Hydration completed but contains mismatches. @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:1
+[    4618ms] [ERROR] Framing 'https://app.dev.bitbanker.org/' violates the following Content Security Policy directive: "frame-ancestors 'none'". The request has been blocked.
+ @ :0
+[  718930ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[ 1535006ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[ 4280371ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[ 5315584ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[ 6941087ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[ 9890106ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[11856776ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[13174365ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[13661803ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[15438962ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[15464687ms] [ERROR] WebSocket connection to 'wss://bitbanker-ws.aws.dev.bitbanker.org/' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[15464695ms] [ERROR] bitbanker socket error Event @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[15466940ms] [WARNING] WebSocket connection to 'wss://vi-sber1-22.jivosite.com/fpEuMKdpkG?b4602e363109e652' failed: WebSocket is closed before the connection is established. @ :0
+[15466944ms] [ERROR] WebSocket connection to 'wss://vi-sber1-22.jivosite.com/fpEuMKdpkG?b4602e363109e652' failed: Error in connection establishment: net::ERR_INTERNET_DISCONNECTED @ :0
+[17910007ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[17958733ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[19013868ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[19759600ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[20644520ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[25443076ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[27409695ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[27411245ms] [WARNING] WebSocket connection to 'wss://vi-sber1-22.jivosite.com/fpEuMKdpkG?b4602e363109e652' failed: WebSocket is closed before the connection is established. @ :0
+[29418612ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[31359450ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[32364741ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[36156721ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[39613353ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[40208527ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[40642692ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[42221338ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[47410012ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[49281102ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[50342692ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[51319442ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[52314249ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[53277990ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[54249764ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[55222593ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[56236241ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[58437219ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[59396073ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[60368735ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[61336392ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[62343643ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[63425145ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[64426250ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[65399592ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[66647654ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[67591527ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[68560514ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[69564677ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[71303248ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[72275431ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[73267047ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[85050777ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[88433072ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[89618172ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[90590771ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[91559675ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[92522093ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[93494754ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[94468695ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[95441378ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[96637791ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[97608338ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[99682814ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[101645366ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[115289864ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[116249233ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[116997216ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[117967975ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[118520315ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15
+[121367152ms] [LOG] close connection @ https://dev.bitbanker.org/_nuxt/DsSMNkar.js:15

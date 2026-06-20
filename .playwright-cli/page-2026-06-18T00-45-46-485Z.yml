@@ -1,0 +1,429 @@
+- generic [ref=e4]:
+  - banner [ref=e5]:
+    - generic [ref=e7]:
+      - link "Bitbanker.org" [ref=e10] [cursor=pointer]:
+        - /url: /
+        - img "Bitbanker.org" [ref=e11]
+      - generic [ref=e12]:
+        - generic [ref=e13]:
+          - link "Log in" [ref=e14] [cursor=pointer]:
+            - /url: https://app.dev.Bitbanker.org/auth/login?lang=en&external=true
+          - link "Sign Up" [ref=e15] [cursor=pointer]:
+            - /url: https://app.dev.Bitbanker.org/auth/register?lang=en&external=true
+        - button "EN" [ref=e19]
+        - button [ref=e20] [cursor=pointer]:
+          - img [ref=e21]
+  - main [ref=e24]:
+    - generic [ref=e25]:
+      - generic [ref=e28]:
+        - generic [ref=e29]:
+          - generic [ref=e30]:
+            - heading "Practical Finance" [level=1] [ref=e31]
+            - generic [ref=e32]: Simple and secure solutions for transfers, storage, and capital growth in Dollars, Dirhams, USDT, USDC, BTC, and other currencies.
+            - link "Get started" [ref=e33] [cursor=pointer]:
+              - /url: https://app.dev.Bitbanker.org/auth/register?lang=en&external=true
+              - text: Get started
+              - img [ref=e34]
+          - generic [ref=e37]:
+            - generic [ref=e38]:
+              - generic [ref=e40]:
+                - generic [ref=e41]: "0"
+                - generic [ref=e42]: "0"
+              - generic [ref=e44]:
+                - generic [ref=e45]: "0"
+                - generic [ref=e46]: "0"
+              - generic [ref=e48]:
+                - generic [ref=e49]: "2"
+                - generic [ref=e50]: "2"
+              - generic [ref=e52]:
+                - generic [ref=e53]: "1"
+                - generic [ref=e54]: "1"
+              - generic [ref=e56]:
+                - generic [ref=e57]: "1"
+                - generic [ref=e58]: "1"
+              - generic [ref=e60]:
+                - generic [ref=e61]: "3"
+                - generic [ref=e62]: "3"
+            - generic [ref=e63]: users trust Bitbanker
+        - img "ladder" [ref=e65]
+      - generic [ref=e66]:
+        - generic [ref=e68]:
+          - generic [ref=e69]:
+            - generic:
+              - paragraph
+              - heading [level=2]
+            - generic [ref=e70]:
+              - generic [ref=e71]:
+                - img [ref=e72]
+                - text: Transparent payment reference
+              - generic [ref=e74]:
+                - img [ref=e75]
+                - text: Official documents
+              - generic [ref=e77]:
+                - img [ref=e78]
+                - text: Credited within a few hours
+            - generic [ref=e80]:
+              - link "Withdraw RUBR" [ref=e81] [cursor=pointer]:
+                - /url: https://app.dev.Bitbanker.org/wallet/withdraw/RUBR/bank_transfer?lang=en&external=true
+              - link "Learn More" [ref=e82] [cursor=pointer]:
+                - /url: /faq/deposit-withdraw/cashless-withdrawal
+          - img "Withdraw RUBR from your balance to a bank account" [ref=e84]
+        - generic [ref=e87]:
+          - generic [ref=e88]:
+            - generic [ref=e89]:
+              - paragraph
+              - heading [level=2]
+            - tablist [ref=e90]:
+              - tab "On the exchange" [selected] [ref=e91] [cursor=pointer]:
+                - img [ref=e92]
+                - text: On the exchange
+              - tab "Instantly" [ref=e94] [cursor=pointer]:
+                - img [ref=e95]
+                - text: Instantly
+              - tab "Over-the-counter trading" [ref=e97] [cursor=pointer]:
+                - img [ref=e98]
+                - text: Over-the-counter trading
+          - generic [ref=e102]:
+            - generic [ref=e107]:
+              - textbox [ref=e109]
+              - img [ref=e111]
+            - generic [ref=e122]: "0"
+        - generic [ref=e125]:
+          - generic [ref=e126]:
+            - generic:
+              - paragraph
+              - heading [level=2]
+            - generic [ref=e127]:
+              - link "Order a payment card" [ref=e128] [cursor=pointer]:
+                - /url: https://app.dev.Bitbanker.org/cards?lang=en&external=true
+              - link "Learn More" [ref=e129] [cursor=pointer]:
+                - /url: /cards
+          - generic [ref=e130]:
+            - img "Pay worldwide with your Mastercard using USDT"
+        - generic [ref=e132]:
+          - generic [ref=e134]:
+            - img
+          - generic [ref=e135]:
+            - heading "Your assets in one app" [level=2] [ref=e136]
+            - generic [ref=e137]:
+              - link "Get the app" [ref=e138] [cursor=pointer]:
+                - /url: https://main.cdn.aws.dev.bitbanker.org/wl/app.dev.bitbanker.org/android-build/app-debug.apk
+                - img [ref=e139]
+                - text: Get the app
+              - paragraph [ref=e141]: Currently available for Android
+        - generic [ref=e143]:
+          - generic [ref=e144]:
+            - generic:
+              - paragraph
+              - heading [level=2]
+            - link "Learn More" [ref=e145] [cursor=pointer]:
+              - /url: /transfer
+              - text: Learn More
+              - img [ref=e146]
+          - generic [ref=e148]:
+            - img "Transfer money without overpaying"
+        - generic [ref=e150]:
+          - generic [ref=e151]:
+            - img [ref=e152]
+            - generic [ref=e154]:
+              - heading "Top up your balance using" [level=2] [ref=e155]
+              - list [ref=e156]:
+                - listitem [ref=e157]:
+                  - img [ref=e158]
+                  - paragraph [ref=e160]: Bank transfer via your banking app
+                - listitem [ref=e161]:
+                  - img [ref=e162]
+                  - paragraph [ref=e164]: Via SBP
+                - listitem [ref=e165]:
+                  - img [ref=e166]
+                  - paragraph [ref=e168]: Cryptocurrencies
+                - listitem [ref=e169]:
+                  - img [ref=e170]
+                  - paragraph [ref=e172]: Cash in Moscow, St. Petersburg, Rostov-on-Don, and Yekaterinburg
+          - generic [ref=e173]:
+            - img [ref=e174]
+            - generic [ref=e176]:
+              - heading "Withdraw funds using" [level=2] [ref=e177]
+              - list [ref=e178]:
+                - listitem [ref=e179]:
+                  - img [ref=e180]
+                  - paragraph [ref=e182]: Bank transfer to a bank account
+                - listitem [ref=e183]:
+                  - img [ref=e184]
+                  - paragraph [ref=e186]: Cryptocurrencies
+                - listitem [ref=e187]:
+                  - img [ref=e188]
+                  - paragraph [ref=e190]: Cash in Moscow, St. Petersburg, Rostov-on-Don, and Yekaterinburg
+        - generic [ref=e192]:
+          - generic [ref=e194]:
+            - paragraph
+            - heading [level=2]
+          - generic [ref=e197]:
+            - generic [ref=e199]:
+              - heading "Russia" [level=3] [ref=e200]
+              - list [ref=e201]:
+                - listitem [ref=e202] [cursor=pointer]:
+                  - link "Moscow" [ref=e203]:
+                    - /url: /exchangers/moscow
+                - listitem [ref=e204] [cursor=pointer]:
+                  - link "Saint Petersburg" [ref=e205]:
+                    - /url: /exchangers/stpetersburg
+                - listitem [ref=e206] [cursor=pointer]:
+                  - link "Rostov-on-Don" [ref=e207]:
+                    - /url: /exchangers/rostov-on-don
+                - listitem [ref=e208] [cursor=pointer]:
+                  - link "Voronezh" [ref=e209]:
+                    - /url: /exchangers/voronezh
+                - listitem [ref=e210] [cursor=pointer]:
+                  - link "Yekaterinburg" [ref=e211]:
+                    - /url: /exchangers/yekaterinburg
+              - link "All" [ref=e212] [cursor=pointer]:
+                - /url: /exchangers/moscow
+                - text: All
+                - img [ref=e213]
+              - img "Russia" [ref=e215]
+            - generic [ref=e217]:
+              - heading "UAE" [level=3] [ref=e218]
+              - list [ref=e219]:
+                - listitem [ref=e220] [cursor=pointer]:
+                  - link "Dubai" [ref=e221]:
+                    - /url: /exchangers/dubai
+              - img "UAE" [ref=e222]
+            - generic [ref=e224]:
+              - heading "Kyrgyzstan" [level=3] [ref=e225]
+              - list [ref=e226]:
+                - listitem [ref=e227] [cursor=pointer]:
+                  - link "Bishkek" [ref=e228]:
+                    - /url: /exchangers/bishkek
+              - img "Kyrgyzstan" [ref=e229]
+            - generic [ref=e231]:
+              - heading "Armenia" [level=3] [ref=e232]
+              - list [ref=e233]:
+                - listitem [ref=e234] [cursor=pointer]:
+                  - link "Yerevan" [ref=e235]:
+                    - /url: /exchangers/yerevan
+              - img "Armenia" [ref=e236]
+        - generic [ref=e238]:
+          - generic [ref=e239]:
+            - generic:
+              - paragraph
+              - heading [level=2]
+            - generic [ref=e240]:
+              - link "Register a company" [ref=e241] [cursor=pointer]:
+                - /url: https://app.dev.Bitbanker.org/auth/register?lang=en&external=true
+              - link "Learn More" [ref=e242] [cursor=pointer]:
+                - /url: /faq/company/registering-company
+          - generic [ref=e243]:
+            - img "Use Bitbanker as a legal entity"
+        - generic [ref=e245]:
+          - generic [ref=e246]:
+            - generic:
+              - img
+            - generic [ref=e247]:
+              - generic:
+                - paragraph
+                - heading [level=2]
+              - link "Learn More" [ref=e248] [cursor=pointer]:
+                - /url: /borrow
+                - text: Learn More
+                - img [ref=e249]
+          - generic [ref=e251]:
+            - generic [ref=e252]:
+              - generic:
+                - paragraph
+                - heading [level=2]
+              - link "Learn More" [ref=e253] [cursor=pointer]:
+                - /url: /earn
+                - text: Learn More
+                - img [ref=e254]
+            - generic:
+              - img
+        - generic [ref=e257]:
+          - generic [ref=e258]:
+            - generic:
+              - paragraph
+              - heading [level=2]
+            - link "Learn More" [ref=e259] [cursor=pointer]:
+              - /url: /p2p
+              - text: Learn More
+              - img [ref=e260]
+          - generic [ref=e262]:
+            - img "Top up your balance and withdraw funds via P2P"
+        - generic [ref=e264]:
+          - generic [ref=e265]:
+            - generic:
+              - paragraph
+              - heading [level=2]
+            - link "Learn More" [ref=e266] [cursor=pointer]:
+              - /url: /faq/registration-and-receipt-of-telegram/connect-telegram-bot
+              - text: Learn More
+              - img [ref=e267]
+          - generic [ref=e269]:
+            - img "Send money via the Telegram bot"
+        - generic [ref=e271]:
+          - generic [ref=e272]:
+            - generic:
+              - paragraph
+              - heading [level=2]
+            - generic [ref=e273]:
+              - generic [ref=e274]: 30 USDT
+              - generic [ref=e275]: 30% from commissions
+              - generic [ref=e276]: Trading fee 0%
+            - link "Learn More" [ref=e277] [cursor=pointer]:
+              - /url: /faq/promo-codes/how-use-promo-link
+              - text: Learn More
+              - img [ref=e278]
+          - generic [ref=e280]:
+            - img "Invite friends and start earning"
+      - generic [ref=e282]:
+        - generic [ref=e284]:
+          - generic [ref=e285]:
+            - heading "Why Bitbanker?" [level=2] [ref=e286]
+            - generic [ref=e287]:
+              - paragraph [ref=e288]: Bitbanker is an international company with legal presence in Europe, UAE, and Central Asia.
+              - paragraph [ref=e289]: Bitbanker is the easy and secure way to trade top crypto and fiat currencies with no restrictions.
+          - link "Sign up" [ref=e291] [cursor=pointer]:
+            - /url: https://app.dev.Bitbanker.org/auth/login?lang=en&external=true
+        - generic [ref=e292]:
+          - generic [ref=e293]:
+            - img "Deposit funds with 0 fees" [ref=e295]
+            - generic [ref=e296]:
+              - heading "Deposit funds with 0 fees" [level=3] [ref=e297]
+              - paragraph
+          - generic [ref=e298]:
+            - img "Top up your balance via bank transfer" [ref=e300]
+            - generic [ref=e301]:
+              - heading "Top up your balance via bank transfer" [level=3] [ref=e302]
+              - paragraph
+          - generic [ref=e303]:
+            - img "Convenient transfers via Telegram" [ref=e305]
+            - generic [ref=e306]:
+              - heading "Convenient transfers via Telegram" [level=3] [ref=e307]
+              - paragraph
+          - generic [ref=e308]:
+            - img "Commission-free Transfers" [ref=e310]
+            - generic [ref=e311]:
+              - heading "Commission-free Transfers" [level=3] [ref=e312]
+              - paragraph
+          - generic [ref=e313]:
+            - img "Trade P2P with no deposit" [ref=e315]
+            - generic [ref=e316]:
+              - heading "Trade P2P with no deposit" [level=3] [ref=e317]
+              - paragraph
+          - generic [ref=e318]:
+            - img "Don't Lose Access to Your Wallet" [ref=e320]
+            - generic [ref=e321]:
+              - heading "Don't Lose Access to Your Wallet" [level=3] [ref=e322]
+              - paragraph
+          - generic [ref=e323]:
+            - img "Exchange crypto without KYC" [ref=e325]
+            - generic [ref=e326]:
+              - heading "Exchange crypto without KYC" [level=3] [ref=e327]
+              - paragraph
+      - generic [ref=e329]:
+        - heading "FAQ" [level=2] [ref=e330]
+        - generic [ref=e331]:
+          - generic [ref=e332]:
+            - list [ref=e333]:
+              - listitem [ref=e334]:
+                - link "Commissions and Limits" [ref=e335] [cursor=pointer]:
+                  - /url: https://dev.Bitbanker.org/faq/comission/trading-commission
+                  - generic [ref=e336]:
+                    - text: Commissions and
+                    - generic [ref=e337]:
+                      - text: Limits
+                      - img [ref=e338]
+              - listitem [ref=e340]:
+                - link "Registering and Setting up an Account" [ref=e341] [cursor=pointer]:
+                  - /url: https://dev.Bitbanker.org/faq/registering-and-setting/signing-on-exchange
+                  - generic [ref=e342]:
+                    - text: Registering and Setting up an
+                    - generic [ref=e343]:
+                      - text: Account
+                      - img [ref=e344]
+              - listitem [ref=e346]:
+                - link "Deposits, Transfers, and Withdrawals" [ref=e347] [cursor=pointer]:
+                  - /url: https://dev.Bitbanker.org/faq/deposit-withdraw/cryptocurrency-deposits
+                  - generic [ref=e348]:
+                    - text: Deposits, Transfers, and
+                    - generic [ref=e349]:
+                      - text: Withdrawals
+                      - img [ref=e350]
+              - listitem [ref=e352]:
+                - link "Offices and Trusted Bitbanker Exchangers" [ref=e353] [cursor=pointer]:
+                  - /url: https://dev.Bitbanker.org/faq/affil-exchange-bitbanker/offices
+                  - generic [ref=e354]:
+                    - text: Offices and Trusted Bitbanker
+                    - generic [ref=e355]:
+                      - text: Exchangers
+                      - img [ref=e356]
+              - listitem [ref=e358]:
+                - link "Deposits" [ref=e359] [cursor=pointer]:
+                  - /url: https://dev.Bitbanker.org/faq/deposits/how-open-deposit
+                  - generic [ref=e361]:
+                    - text: Deposits
+                    - img [ref=e362]
+              - listitem [ref=e364]:
+                - link "Crypto payment processing" [ref=e365] [cursor=pointer]:
+                  - /url: https://dev.Bitbanker.org/faq/crypto-merchant-acquiring/how-create-invoice
+                  - generic [ref=e366]:
+                    - text: Crypto payment processing
+                    - img [ref=e368]
+              - listitem [ref=e370]:
+                - link "Investing" [ref=e371] [cursor=pointer]:
+                  - /url: https://dev.Bitbanker.org/faq/investment
+                  - generic [ref=e373]:
+                    - text: Investing
+                    - img [ref=e374]
+            - list [ref=e376]:
+              - listitem [ref=e377]:
+                - link "P2P Deposits and Withdrawals" [ref=e378] [cursor=pointer]:
+                  - /url: https://dev.Bitbanker.org/faq/p2p/whatis-p2p
+                  - generic [ref=e379]:
+                    - text: P2P Deposits and
+                    - generic [ref=e380]:
+                      - text: Withdrawals
+                      - img [ref=e381]
+              - listitem [ref=e383]:
+                - link "Verification (KYC)" [ref=e384] [cursor=pointer]:
+                  - /url: https://dev.Bitbanker.org/faq/verification-kyc/whatis-kyc
+                  - generic [ref=e385]:
+                    - text: Verification
+                    - generic [ref=e386]:
+                      - text: (KYC)
+                      - img [ref=e387]
+              - listitem [ref=e389]:
+                - link "Orders" [ref=e390] [cursor=pointer]:
+                  - /url: https://dev.Bitbanker.org/faq/orders/best-price-set-price-orders
+                  - generic [ref=e392]:
+                    - text: Orders
+                    - img [ref=e393]
+              - listitem [ref=e395]:
+                - link "Notifications" [ref=e396] [cursor=pointer]:
+                  - /url: https://dev.Bitbanker.org/faq/notifications/how-work
+                  - generic [ref=e398]:
+                    - text: Notifications
+                    - img [ref=e399]
+              - listitem [ref=e401]:
+                - link "Loans" [ref=e402] [cursor=pointer]:
+                  - /url: https://dev.Bitbanker.org/faq/borrows/how-get-loan
+                  - generic [ref=e404]:
+                    - text: Loans
+                    - img [ref=e405]
+              - listitem [ref=e407]:
+                - link "Promo codes" [ref=e408] [cursor=pointer]:
+                  - /url: https://dev.Bitbanker.org/faq/promo-codes/how-use-promo-link
+                  - generic [ref=e409]:
+                    - text: Promo
+                    - generic [ref=e410]:
+                      - text: codes
+                      - img [ref=e411]
+              - listitem [ref=e413]:
+                - link "Buy Cryptocurrency via SBP" [ref=e414] [cursor=pointer]:
+                  - /url: https://dev.Bitbanker.org/faq/crypto-sbp
+                  - generic [ref=e415]:
+                    - text: Buy Cryptocurrency via
+                    - generic [ref=e416]:
+                      - text: SBP
+                      - img [ref=e417]
+          - img [ref=e420]

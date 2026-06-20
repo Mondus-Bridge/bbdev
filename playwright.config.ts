@@ -21,7 +21,7 @@ export default defineConfig({
   /* Retry on CI only */
   retries: process.env.CI ? 2 : 0,
   /* Opt out of parallel tests on CI. */
-  workers: process.env.CI ? 1 : undefined,
+  workers: process.env.CI ? 4 : undefined,
   /* Reporter to use. See https://playwright.dev/docs/test-reporters */
   reporter: 'html',
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
@@ -34,28 +34,22 @@ export default defineConfig({
   },
 
   /* Configure projects for major browsers */
+  globalSetup: require.resolve('./global-setup'),
   projects: [
     {
-      name: 'setup',
-      testMatch: /tests\/auth\/login\.setup\.ts$/,
+      name: 'chromium',
+      use: { ...devices['Desktop Chrome'], storageState: '.auth/chromium/user.json' },
     },
     {
-      name: 'chromium',
-      use: { ...devices['Desktop Chrome'], storageState: '.auth/user.json' },
-      dependencies: ['setup'],
+      name: 'app',
+      testMatch: 'tests/e2e/app/**/*.spec.{js,ts,jsx,tsx}',
+      use: { storageState: '.auth/app/user.json' },
     },
-{
-  name: 'app',
-  testMatch: 'tests/e2e/app/**/*.spec.{js,ts,jsx,tsx}',
-  dependencies: ['setup'],
-  use: { storageState: '.auth/user.json' },
-},
-{
-  name: 'admin',
-  testMatch: 'tests/e2e/admin/**/*.spec.{js,ts,jsx,tsx}',
-  dependencies: ['setup'],
-  use: { storageState: '.auth/user.json' },
-},
+    {
+      name: 'admin',
+      testMatch: 'tests/e2e/admin/**/*.spec.{js,ts,jsx,tsx}',
+      use: { storageState: '.auth/admin/user.json' },
+    },
 
     // {
     //   name: 'firefox',
