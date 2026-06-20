@@ -1,5 +1,5 @@
 import { Page } from '@playwright/test';
-import { LoginPage } from '../../../pom/features/auth/LoginPage';
+import { LoginPage } from '../../../pages/auth/LoginPage';
 
 export class POMManager {
   readonly loginPage: LoginPage;

@@ -2,7 +2,7 @@ import { test, expect } from '@playwright/test';
 // Provide a minimal declaration for `process` so TypeScript doesn't require
 // @types/node in the test environment.
 declare const process: { env: { [key: string]: string | undefined } };
-import { POMManager } from '../../../src/fixtures/features/auth/login.fixture';
+import { POMManager } from '../../fixtures/features/auth/login.fixture';
 
 // Override the project-level storageState (set in playwright.config.ts) so that
 // login tests always start with a clean authenticated session.
@@ -21,7 +21,7 @@ const PASSWORD = process.env.PASSWORD!;
  * the interception and retries the action until the timeout is reached.
  *
  * Call this helper after any navigation to ensure the overlay has fully
- * transitioned out before interacting with the page.
+ * transitioned out before interacting.
  */
 async function waitForLoadingOverlay(page: import('@playwright/test').Page) {
   await page

@@ -2,7 +2,7 @@
 import { test, expect } from '@playwright/test';
 import fs from 'fs';
 import path from 'path';
-import { POMManager } from '../../../src/fixtures/features/auth/login.fixture';
+import { POMManager } from '../../fixtures/features/auth/login.fixture';
 
 const ADDRESSES_FILE = path.resolve(__dirname, '..', '..', '..', 'fixtures', 'deposit-addresses.json');
 

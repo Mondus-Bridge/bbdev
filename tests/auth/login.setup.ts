@@ -1,5 +1,5 @@
 import { test as setup, expect } from '@playwright/test';
-import { POMManager } from '../../src/fixtures/features/auth/login.fixture';
+import { POMManager } from '../fixtures/features/auth/login.fixture';
 
 const LOGIN_PATH = process.env.LOGIN_PATH!;
 const EMAIL = process.env.EMAIL!;
